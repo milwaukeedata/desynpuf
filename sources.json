@@ -1,0 +1,202 @@
+{
+  "sample_1/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_1.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_1A.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_1B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_1.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_1.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_1.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_1.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_1.zip"
+  ],
+  "sample_2/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_2.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_2A.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_2B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_2.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_2.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_2.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_2.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_2.zip"
+  ],
+  "sample_3/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_3.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_3A.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_3B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_3.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_3.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_3.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_3.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_3.zip"
+  ],
+  "sample_4/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_4.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_4A.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_4B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_4.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_4.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_4.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_4.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_4.zip"
+  ],
+  "sample_5/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_5.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_5A.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_5B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_5.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_5.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_5.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_5.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_5.zip"
+  ],
+  "sample_6/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_6.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_6A.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_6B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_6.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_6.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_6.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_6.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_6.zip"
+  ],
+  "sample_7/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_7.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_7A.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_7B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_7.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_7.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_7.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_7.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_7.zip"
+  ],
+  "sample_8/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_8.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_8A.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_8B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_8.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_8.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_8.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_8.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_8.zip"
+  ],
+  "sample_9/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_9.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_9A.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_9B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_9.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_9.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_9.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_9.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_9.zip"
+  ],
+  "sample_10/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_10.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_10A.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_10B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_10.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_10.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_10.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_10.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_10.zip"
+  ],
+  "sample_11/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_11.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_11.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_11.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_11.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_11.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_11.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_11.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_11.zip"
+  ],
+  "sample_12/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_12.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_12.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_12B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_12.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_12.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_12.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_12.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_12.zip"
+  ],
+  "sample_13/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_13.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_13A.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_13B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_13.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_13.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_13.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_13.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_13.zip"
+  ],
+  "sample_14/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_14.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_14A.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_14B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_14.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_14.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_14.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_14.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_14.zip"
+  ],
+  "sample_15/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_15.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_15A.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_15B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_15.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_15.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_15.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_15.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_15.zip"
+  ],
+  "sample_16/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_16.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_16A.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_16B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_16.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_16.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_16.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_16.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_16.zip"
+  ],
+  "sample_17/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_17.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_17A.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_17B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_17.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_17.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_17.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_17.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_17.zip"
+  ],
+  "sample_18/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_18.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_18A.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_18B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_18.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_18.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_18.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_18.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_18.zip"
+  ],
+  "sample_19/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_19.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_19A.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_19B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_19.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_19.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_19.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_19.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_19.zip"
+  ],
+  "sample_20/": [
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_Beneficiary_Summary_File_Sample_20.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_20A.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Carrier_Claims_Sample_20B.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Inpatient_Claims_Sample_20.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2008_to_2010_Outpatient_Claims_Sample_20.zip",
+    "http://downloads.cms.gov/files/DE1_0_2008_to_2010_Prescription_Drug_Events_Sample_20.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2009_Beneficiary_Summary_File_Sample_20.zip",
+    "http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/Downloads/DE1_0_2010_Beneficiary_Summary_File_Sample_20.zip"
+  ]
+}

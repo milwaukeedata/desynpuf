@@ -31,7 +31,7 @@ class Synpuf(object):
     except:
       for filename in self.filenames:
         with open(filename, 'r') as fh:
-          for line in fh.readlines():
+          for line in fh.readlines()[1:]:
             self.all_ids.add(line.split(',')[0])
       with open(self.directory + "/all_ids.txt", "w") as fh:
         for each_id in self.all_ids:
@@ -43,11 +43,14 @@ class Synpuf(object):
   def extract_by_id(self):
     if not os.path.exists(self.new_directory):
       os.makedirs(self.new_directory)
-    for filename in self.filenames:
-      with open(filename, 'r') as read_fh:
-        new_filename = os.path.basename(filename)
-        with open(self.new_directory + '/' + new_filename, 'w') as write_fh:
-          for line in read_fh.readlines():
+    for incoming_filename in self.filenames:
+      outgoing_filename = os.path.basename(incoming_filename)
+      with open(incoming_filename, 'r') as read_fh:
+        incoming_data = read_fh.readlines()
+        headers = incoming_data.pop(0)
+        with open(self.new_directory + '/' + outgoing_filename, 'w') as write_fh:
+          write_fh.write(headers)
+          for line in incoming_data:
             desynpufid = line.split(',')[0]
             if desynpufid in self.sample_ids:
               write_fh.write(line)

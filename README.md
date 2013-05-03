@@ -2,9 +2,9 @@
 
 This repository creates and stores CSV (comma separated value) files containing Medicare data. The data has been anonymized by the Centers for Medicare & Medicaid Services, which is why they call it "data entrepreneur's synthetic public use files", or 'desynpuf' for short.
 
-This README.md will do little to enlighten you, but it will point to other resources you might find useful.
+This README.md will do little to enlighten you, but it will point to other resources you might find useful. However, I will warn you that this is a large repository. You may wish to consider downloading limited data sets rather than cloning the whole repository.
 
-First, the source data - which is not included in this repository, primarily because of the size of the data set - is available at this address:
+The CMS.gov source data - which is not included in this repository, primarily because of the size of their complete data set - is available at this address:
 
 http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/SynPUFs/DE_Syn_PUF.html
 

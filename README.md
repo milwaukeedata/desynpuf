@@ -19,6 +19,8 @@ If you want to work with the source data, by all means do that. The CMS has a nu
 
 The data that's actually in this repository represents twenty sample data sets, each a subset of the complete data set. Each sample data set contains all of the records from 2008, 2009, and 2010 for 20,000 patients. All records provided by the CMS data sets for each patient are included in the sample set that contains that patient. So for example, if you look at the (anonymized) patient data in the directory 1-sample-10000, you'll find all of the records for 10,000 patients. Any patient represented in the first sample set (1-sample-10000) will not reappear in any other sample set. 
 
+UPDATE: There are only 18 sets at this point because samples 11 and 17 both contained corrupt Zip files, so I skipped them.
+
 The Python code used to download and extract the data (sources.py), and create the sample data sets (make_samples.py) is provided for your review. If you see reason to suspect the selection protocol, please open an issue or a pull-request.
 
 

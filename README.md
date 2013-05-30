@@ -23,4 +23,9 @@ UPDATE: There are only 18 sets at this point because samples 11 and 17 both cont
 
 The Python code used to download and extract the data (sources.py), and create the sample data sets (make_samples.py) is provided for your review. If you see reason to suspect the selection protocol, please open an issue or a pull-request.
 
-
+## Resources
+These are helpful resources to help you translate the CPT, HCPCS (procedure) and ICD-9/10 (diagnostic) codes used by medical offices to obtain reimbursement for services.
+* CMS/Medicare Physician Fee Schedule Data Base Relative Value files: http://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/PhysicianFeeSched/PFS-Relative-Value-Files.html
+* CMS/Medicare Physician Fee Schedule lookup: http://www.cms.gov/apps/physician-fee-schedule/overview.aspx
+* ICD-9-CM Diagnosis code lookup (CDC website): http://www.cdc.gov/nchs/icd/icd9cm.htm
+* The CPT (procedure) codes are managed by the AMA and information about the codes can be found here: http://www.ama-assn.org/ama/pub/physician-resources/solutions-managing-your-practice/coding-billing-insurance/cpt.page
